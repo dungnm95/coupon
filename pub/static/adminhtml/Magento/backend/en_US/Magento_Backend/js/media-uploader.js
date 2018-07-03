@@ -1,0 +1,1 @@
+/var/www/magento2_4/vendor/magento/module-backend/view/adminhtml/web/js/media-uploader.js

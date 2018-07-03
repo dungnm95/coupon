@@ -1,0 +1,1 @@
+/var/www/magento2_4/lib/web/tiny_mce/themes/advanced/editor_template_src.js
