@@ -1,1 +1,0 @@
-/var/www/magento2_4/vendor/magento/module-captcha/view/frontend/web/js/action/refresh.js

@@ -26,17 +26,4 @@ class Interceptor extends \Magento\Catalog\Model\Product\Gallery\CreateHandler i
             return $this->___callPlugins('execute', func_get_args(), $pluginInfo);
         }
     }
-
-    /**
-     * {@inheritdoc}
-     */
-    public function getAttribute()
-    {
-        $pluginInfo = $this->pluginList->getNext($this->subjectType, 'getAttribute');
-        if (!$pluginInfo) {
-            return parent::getAttribute();
-        } else {
-            return $this->___callPlugins('getAttribute', func_get_args(), $pluginInfo);
-        }
-    }
 }

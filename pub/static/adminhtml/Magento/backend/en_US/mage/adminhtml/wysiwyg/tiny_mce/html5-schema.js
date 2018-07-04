@@ -1,1 +1,0 @@
-/var/www/magento2_4/lib/web/mage/adminhtml/wysiwyg/tiny_mce/html5-schema.js

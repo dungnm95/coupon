@@ -1,1 +1,0 @@
-/var/www/magento2_4/lib/web/mage/adminhtml/wysiwyg/tiny_mce/plugins/magentowidget/editor_plugin.js

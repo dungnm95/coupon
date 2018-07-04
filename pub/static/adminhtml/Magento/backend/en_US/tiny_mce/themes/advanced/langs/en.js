@@ -1,1 +1,0 @@
-/var/www/magento2_4/lib/web/tiny_mce/themes/advanced/langs/en.js
