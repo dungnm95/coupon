@@ -17,6 +17,7 @@ define([
         _create: function () {
             this.couponCode = $(this.options.couponCodeSelector);
             this.removeCoupon = $(this.options.removeCouponSelector);
+            this.inputRemoveCoupon = $(this.options.inputCouponSelector);
 
             $(this.options.applyButton).on('click', $.proxy(function () {
                 this.couponCode.attr('data-validate', '{required:true}');

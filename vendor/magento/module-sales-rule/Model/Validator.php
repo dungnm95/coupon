@@ -1,11 +1,10 @@
 <?php
 /**
- * Copyright © Magento, Inc. All rights reserved.
- * See COPYING.txt for license details.
+ * Created by PhpStorm.
+ * User: dzung
+ * Date: 04/07/2018
+ * Time: 14:45
  */
-
-// @codingStandardsIgnoreFile
-
 namespace Magento\SalesRule\Model;
 
 use Magento\Quote\Model\Quote\Address;
@@ -83,7 +82,7 @@ class Validator extends \Magento\Framework\Model\AbstractModel
     protected $priceCurrency;
 
     /**
-     * @var Validator\Pool
+     * @var \Magento\SalesRule\Model\Validator\Pool
      */
     protected $validators;
 
@@ -102,12 +101,12 @@ class Validator extends \Magento\Framework\Model\AbstractModel
     /**
      * @param \Magento\Framework\Model\Context $context
      * @param \Magento\Framework\Registry $registry
-     * @param \Magento\SalesRule\Model\ResourceModel\Rule\CollectionFactory $collectionFactory
+     * @param \Multi\Coupon\Model\ResourceModel\Rule\CollectionFactory $collectionFactory
      * @param \Magento\Catalog\Helper\Data $catalogData
      * @param Utility $utility
      * @param RulesApplier $rulesApplier
      * @param \Magento\Framework\Pricing\PriceCurrencyInterface $priceCurrency
-     * @param Validator\Pool $validators
+     * @param \Magento\SalesRule\Model\Validator\Pool $validators
      * @param \Magento\Framework\Message\ManagerInterface $messageManager
      * @param \Magento\Framework\Model\ResourceModel\AbstractResource $resource
      * @param \Magento\Framework\Data\Collection\AbstractDb $resourceCollection
@@ -117,7 +116,7 @@ class Validator extends \Magento\Framework\Model\AbstractModel
     public function __construct(
         \Magento\Framework\Model\Context $context,
         \Magento\Framework\Registry $registry,
-        \Magento\SalesRule\Model\ResourceModel\Rule\CollectionFactory $collectionFactory,
+        \Multi\Coupon\Model\ResourceModel\Rule\CollectionFactory $collectionFactory,
         \Magento\Catalog\Helper\Data $catalogData,
         \Magento\SalesRule\Model\Utility $utility,
         \Magento\SalesRule\Model\RulesApplier $rulesApplier,
@@ -168,12 +167,13 @@ class Validator extends \Magento\Framework\Model\AbstractModel
             . $this->getCustomerGroupId() . '_'
             . $this->getCouponCode() . '_'
             . $addressId;
+        $couponCode = explode(',', $this->getCouponCode());
         if (!isset($this->_rules[$key])) {
             $this->_rules[$key] = $this->_collectionFactory->create()
                 ->setValidationFilter(
                     $this->getWebsiteId(),
                     $this->getCustomerGroupId(),
-                    $this->getCouponCode(),
+                    $couponCode,
                     null,
                     $address
                 )

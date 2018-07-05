@@ -15,8 +15,9 @@
         <form id="discount-coupon-form"
               action="<?= /* @escapeNotVerified */ $block->getUrl('multicoupon/multi/couponPost') ?>"
               method="post"
-              data-mage-init='{"discountCode":{"couponCodeSelector": "#coupon_code",
+              data-mage-init='{"discountCode1":{"couponCodeSelector": "#coupon_code",
                                                "removeCouponSelector": "#remove-coupon",
+                                               "inputCouponSelector": "#remove_coupon",
                                                "applyButton": "button.action.apply",
                                                "cancelButton": "a.action.cancel"}}'>
             <div class="fieldset coupon<?= strlen($block->getCouponCode()) ? ' applied' : '' ?>">
@@ -29,21 +30,29 @@
                 </div>
                 <div class="actions-toolbar">
 
-                        <div class="primary">
-                            <button class="action apply primary" type="button" value="<?= /* @escapeNotVerified */ __('Apply Discount') ?>">
-                                <span><?= /* @escapeNotVerified */ __('Apply Discount') ?></span>
-                            </button>
-                        </div>
+                    <div class="primary">
+                        <button class="action apply primary" type="button" value="<?= /* @escapeNotVerified */ __('Apply Discount') ?>">
+                            <span><?= /* @escapeNotVerified */ __('Apply Discount') ?></span>
+                        </button>
+                    </div>
                 </div>
 
             </div>
             <?php if (strlen($block->getCouponCode())): ?>
-                    <h5>Apply Coupon code:</h5>
-                    <div class="actions-toolbar">
-                        <span><?= $block->escapeHtml($block->getCouponCode()) ?></span>
-                        <a href="#" class="action cancel">Remove</a>
-                    </div>
-                <?php endif; ?>
+                <h5>Apply Coupon code:</h5>
+                <input type="hidden" name="remove_coupon" id="remove_coupon" value="" />
+                <?php
+                    $array_coupon = explode(',',$block->getCouponCode());
+                    foreach ($array_coupon as $coupon):
+                ?>
+                        <div style="width:100%;margin-bottom: 10px;">
+                            <div class="actions-toolbar">
+                                <span><?= $coupon ?></span>
+                                <a href="#" class="action cancel">Remove</a>
+                            </div>
+                        </div>
+
+            <?php endforeach; endif; ?>
 
         </form>
     </div>
