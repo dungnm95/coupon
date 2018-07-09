@@ -121,7 +121,7 @@ class CouponPost extends \Magento\Checkout\Controller\Cart
                 $this->quoteRepository->save($cartQuote);
             }
 
-            if ($codeLength) {
+            if ($codeLength && $this->getRequest()->getParam('remove') != 1) {
                 $escaper = $this->_objectManager->get(\Magento\Framework\Escaper::class);
 
                 $array_coupon = explode(',', $couponCode);
@@ -164,7 +164,7 @@ class CouponPost extends \Magento\Checkout\Controller\Cart
                     }
                 }
             } else {
-                $this->messageManager->addSuccess(__('You canceled the coupon code.'));
+                $this->messageManager->addSuccess(__('You canceled the coupon code "%1".',$this->getRequest()->getParam('remove_coupon')));
             }
         } catch (\Magento\Framework\Exception\LocalizedException $e) {
             $this->messageManager->addError($e->getMessage());

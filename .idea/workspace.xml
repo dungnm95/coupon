@@ -2,64 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="015621d7-8fb8-45c5-9b37-8e954e802765" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/layout/checkout_index_index.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_SERVICE_METHOD_PARAMS_60F41CA85FA43E0D38B5121BA5A6E36D" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_DB_PDO_MYSQL_DDL_SALES_ORDER_STATUS_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_STRUCTURE_LAYOUT_FRONTEND_STORE1_3D41D8CD98F00B204E9800998ECF8427E" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_BLOCK_6CAB8C9B28D57DE1F1B0BF5EFE242DA6E9408F81" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_EAV_ENTITY_ATTRIBUTES_3_0_0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_SERVICEINTERFACEMETHODSMAP_5180E7EBB41FBD18E09D71DE00F12C55" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_LAYOUT_FRONTEND_STORE1_3D41D8CD98F00B204E9800998ECF8427E" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_SERVICEINTERFACEMETHODSMAP_019E909D24C763B93B8BCA61580880E7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_EAV_ENTITY_ATTRIBUTES_3_1_3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_LAYOUT_FRONTEND_STORE1_30A98983867A1770682B48D9A0AD63441_PAGE_LAYOUT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_DB_PDO_MYSQL_DDL_CATALOG_PRODUCT_ENTITY_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_LAYOUT_FRONTEND_STORE1_30A98983867A1770682B48D9A0AD63441" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_STRUCTURE_LAYOUT_FRONTEND_STORE1_3E13260053F56644D576F1E487266F9A1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---4dd_PRODUCT_LISTING_ATTRIBUTES4_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_COLLECTION_01070DC35759FD33A31F3F35A7130548" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_DB_PDO_MYSQL_DDL_CATALOG_CATEGORY_ENTITY_3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_TRANSLATE_EN_US_FRONTEND_DEFAULT_MAGENTO_LUMA_MULTI_COUPON" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_LAYOUT_FRONTEND_STORE1_3E13260053F56644D576F1E487266F9A1_PAGE_LAYOUT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_LAYOUT_FRONTEND_STORE1_3E13260053F56644D576F1E487266F9A1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_SERVICE_METHOD_PARAMS_B04F85D209E73E5D5818192CBB86573F" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_LAYOUT_FRONTEND_STORE1_3D41D8CD98F00B204E9800998ECF8427E_PAGE_LAYOUT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_SERVICEINTERFACEMETHODSMAP_A36E982724E2B7DAAFB6951F622DB76D" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_TRANSLATE_EN_US_FRONTEND_DEFAULT_MAGENTO_LUMA_MAGENTO_CUSTOMER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_EAV_ENTITY_ATTRIBUTESCATALOG_CATEGORY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_SERVICE_METHOD_PARAMS_3466D26BE552A7DF82D55B00322D3B12" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_LAYOUT_FRONTEND_STORE1_3177627F91AF678A9B03E993F1A91917F" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_SERVICEINTERFACEMETHODSMAP_EB5E27B2FA634C663D0361B6E7B929BE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_EAV_ATTRIBUTE_WEBSITE_1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_EAV_ENTITY_ATTRIBUTESCUSTOMER_ADDRESS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_SERVICE_METHOD_PARAMS_31AB3210BBA027173DE7DA9F078EF389" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_SERVICEINTERFACEMETHODSMAP_8AA9584338BFE0F55C9130DB849F49AA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_SERVICEINTERFACEMETHODSMAP_0E68BB69149B169BBD284DDD9C06352D" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_STRUCTURE_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---4dd_SERVICE_METHOD_PARAMS_C93EA926C33D8501399EDBFCDE9FAFB8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_EAV_ATTRIBUTE_1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_SERVICEINTERFACEMETHODSMAP_9D473970BE5A1B12E12BDCB7498925DA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_ADDRESS_ENTITY_3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_LAYOUT_FRONTEND_STORE1_3177627F91AF678A9B03E993F1A91917F_PAGE_LAYOUT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164_PAGE_LAYOUT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_SERVICE_METHOD_PARAMS_B957F6C078CBD5B6319D19E712954286" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_EAV_ENTITY_ATTRIBUTES_2_0_0" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/Multi/Coupon/Controller/Multi/CouponPost.php" afterPath="$PROJECT_DIR$/app/code/Multi/Coupon/Controller/Multi/CouponPost.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/Multi/Coupon/Model/Validator.php" afterPath="$PROJECT_DIR$/app/code/Multi/Coupon/Model/Validator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount.js" afterPath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/template/payment/discount.html" afterPath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/template/payment/discount.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pub/static/deployed_version.txt" afterPath="$PROJECT_DIR$/pub/static/deployed_version.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/templates/cart/coupon.phtml" afterPath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/templates/cart/coupon.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_BLOCK_EDB5B9E02865B7F7CA80657ED4F592B8322D20A7" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_BLOCK_EDB5B9E02865B7F7CA80657ED4F592B8322D20A7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_LAYOUT_FRONTEND_STORE1_3177627F91AF678A9B03E993F1A91917F" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_LAYOUT_FRONTEND_STORE1_3177627F91AF678A9B03E993F1A91917F" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_SERVICEINTERFACEMETHODSMAP_CD4502CC8D5548379A23BCA94CC2DB13" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_SERVICEINTERFACEMETHODSMAP_CD4502CC8D5548379A23BCA94CC2DB13" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_STRUCTURE_LAYOUT_FRONTEND_STORE1_36F1B068EC7CCF4878F9284DD1137AFD1" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_STRUCTURE_LAYOUT_FRONTEND_STORE1_36F1B068EC7CCF4878F9284DD1137AFD1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_EAV_ATTRIBUTE_WEBSITE_1" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_EAV_ATTRIBUTE_WEBSITE_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_EAV_ENTITY_ATTRIBUTES_4_0_0" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_EAV_ENTITY_ATTRIBUTES_4_0_0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_GLOBAL_PLUGIN_LIST" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_GLOBAL_PLUGIN_LIST" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_SYSTEM" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_SYSTEM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_Zend_LocaleC_en_US_parentlocale_" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_Zend_LocaleC_en_US_parentlocale_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_DB_PDO_MYSQL_DDL_EAV_ATTRIBUTE_1" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_DB_PDO_MYSQL_DDL_EAV_ATTRIBUTE_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_EAV_ENTITY_ATTRIBUTESCUSTOMER_ADDRESS" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_EAV_ENTITY_ATTRIBUTESCUSTOMER_ADDRESS" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_FRONTEND__RESOURCESCACHE" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_FRONTEND__RESOURCESCACHE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_GLOBAL_FRONTEND_PLUGIN_LIST" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_GLOBAL_FRONTEND_PLUGIN_LIST" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_INITIAL_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_INITIAL_CONFIG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_INTERCEPTION" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_INTERCEPTION" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_SYSTEM_STORES_ADMIN" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_SYSTEM_STORES_ADMIN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_THEMEFRONTEND_MAGENTO_LUMA" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_THEMEFRONTEND_MAGENTO_LUMA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_THEME_BY_ID_3" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_THEME_BY_ID_3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_DESIGN_CHANGE_C45DE0ED34E4BB6C384E76BF50A2EAED" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_DESIGN_CHANGE_C45DE0ED34E4BB6C384E76BF50A2EAED" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_LAYOUT_FRONTEND_STORE1_3PAGE_LAYOUT" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_LAYOUT_FRONTEND_STORE1_3PAGE_LAYOUT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_SECTIONS_INVALIDATION_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_SECTIONS_INVALIDATION_CONFIG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_SERVICEINTERFACEMETHODSMAP_8AA9584338BFE0F55C9130DB849F49AA" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_SERVICEINTERFACEMETHODSMAP_8AA9584338BFE0F55C9130DB849F49AA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_WEBAPI_REST__EVENT_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_WEBAPI_REST__EVENT_CONFIG_CACHE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_Zend_LocaleC_en_US_currencynumber_" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_Zend_LocaleC_en_US_currencynumber_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_Zend_LocaleC_en_US_currencysymbol_" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_Zend_LocaleC_en_US_currencysymbol_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_Zend_LocaleC_en_US_currencytoname_USD" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_Zend_LocaleC_en_US_currencytoname_USD" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_APP_ACTION_LIST" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_APP_ACTION_LIST" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_APP_CE79F7EF764E9F981C8549B9DBEC468F" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_APP_CE79F7EF764E9F981C8549B9DBEC468F" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_CRON_GROUPS_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_CRON_GROUPS_CONFIG_CACHE" />
@@ -68,14 +41,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_SYSTEM_SCOPES" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_SYSTEM_SCOPES" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_SYSTEM_STORES_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_SYSTEM_STORES_DEFAULT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_SYSTEM_WEBSITES_0" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_SYSTEM_WEBSITES_0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_Zend_LocaleC_en_US_nametocurrency_" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_Zend_LocaleC_en_US_nametocurrency_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_KLARNA_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_KLARNA_CONFIG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_SALES_TOTALS_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_SALES_TOTALS_CONFIG_CACHE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_SERVICEINTERFACEMETHODSMAP_0E68BB69149B169BBD284DDD9C06352D" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_SERVICEINTERFACEMETHODSMAP_0E68BB69149B169BBD284DDD9C06352D" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_SERVICEINTERFACEMETHODSMAP_4698576825FDA7A8C99B7EE1ACD43DC6" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_SERVICEINTERFACEMETHODSMAP_4698576825FDA7A8C99B7EE1ACD43DC6" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_STRUCTURE_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_STRUCTURE_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_Zend_LocaleL_en_US_symbols_" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_Zend_LocaleL_en_US_symbols_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_CORE_CACHE_INVALIDATE" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_CORE_CACHE_INVALIDATE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_LAYOUT_FRONTEND_STORE1_36F1B068EC7CCF4878F9284DD1137AFD1" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_LAYOUT_FRONTEND_STORE1_36F1B068EC7CCF4878F9284DD1137AFD1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_RESOLVED_STORES_D1BEFA03C79CA0B84ECC488DEA96BC68" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_RESOLVED_STORES_D1BEFA03C79CA0B84ECC488DEA96BC68" />
@@ -85,27 +51,19 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---4dd_DB_PDO_MYSQL_DDL_QUOTE_ADDRESS_1" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---4dd_DB_PDO_MYSQL_DDL_QUOTE_ADDRESS_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---4dd_SYSTEM_WEBSITES_1" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---4dd_SYSTEM_WEBSITES_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_APP_35C0BF370AE35F8C482DC31B8A81FC2F" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_APP_35C0BF370AE35F8C482DC31B8A81FC2F" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_EAV_ATTRIBUTE_1" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_EAV_ATTRIBUTE_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_GROUP_1" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_GROUP_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_IMG_INFO_VAR_WWW_MAGENTO2_4_PUB_MEDIA_CATALOG_PRODUCT_CACHE_F073062F50E48EB0F0998593E568D857_W_B_WB01_BLACK_MAIN__JPG" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_IMG_INFO_VAR_WWW_MAGENTO2_4_PUB_MEDIA_CATALOG_PRODUCT_CACHE_F073062F50E48EB0F0998593E568D857_W_B_WB01_BLACK_MAIN__JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_SORTED_QUOTE_COLLECTORS" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_SORTED_QUOTE_COLLECTORS" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_SYSTEM_STORES_1" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_SYSTEM_STORES_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_THEME_BY_ID_1" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_THEME_BY_ID_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_UI_COMPONENT_CONFIGURATION_DEFINITION_DATA" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_UI_COMPONENT_CONFIGURATION_DEFINITION_DATA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_Zend_LocaleC_en_US_currencytoregion_US" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_Zend_LocaleC_en_US_currencytoregion_US" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_IS_UP_TO_DATE" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_IS_UP_TO_DATE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_PDO_MYSQL_DDL_CATALOG_PRODUCT_ENTITY_3" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_PDO_MYSQL_DDL_CATALOG_PRODUCT_ENTITY_3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_ADDRESS_ENTITY_3" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_ADDRESS_ENTITY_3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_PDO_MYSQL_DDL_SALESRULE_3" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_PDO_MYSQL_DDL_SALESRULE_3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_GLOBAL__RESOURCESCACHE" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_GLOBAL__RESOURCESCACHE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_SYSTEM_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_SYSTEM_DEFAULT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_TRANSLATE_EN_US_WEBAPI_REST_DEFAULT__" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_TRANSLATE_EN_US_WEBAPI_REST_DEFAULT__" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_WEBAPI_REST__RESOURCESCACHE" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_WEBAPI_REST__RESOURCESCACHE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_Zend_LocaleC_en_US_nametocurrency_USD" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_Zend_LocaleC_en_US_nametocurrency_USD" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---4dd_DB_PDO_MYSQL_DDL_QUOTE_ITEM_1" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---4dd_DB_PDO_MYSQL_DDL_QUOTE_ITEM_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---4dd_DB_PDO_MYSQL_DDL_QUOTE_ITEM_OPTION_1" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---4dd_DB_PDO_MYSQL_DDL_QUOTE_ITEM_OPTION_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---4dd_FRONTEND__EVENT_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---4dd_FRONTEND__EVENT_CONFIG_CACHE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---4dd_PRODUCT_OPTIONS_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---4dd_PRODUCT_OPTIONS_CONFIG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---4dd_WEBAPI_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--a/mage---4dd_WEBAPI_CONFIG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_BLOCK_8A329F4B1B33885473ECE246BAEE83301BBA3D71" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_BLOCK_8A329F4B1B33885473ECE246BAEE83301BBA3D71" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_VISITOR_1" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_VISITOR_1" />
@@ -116,25 +74,18 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_SERVICEINTERFACEMETHODSMAP_82C4AAF4BA2F3160F5C189A242F9AFBC" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_SERVICEINTERFACEMETHODSMAP_82C4AAF4BA2F3160F5C189A242F9AFBC" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_SYSTEM_WEBSITES_ADMIN" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_SYSTEM_WEBSITES_ADMIN" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_SYSTEM_WEBSITES_BASE" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_SYSTEM_WEBSITES_BASE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_Zend_LocaleC_en_US_currencysymbol_USD" afterPath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_Zend_LocaleC_en_US_currencysymbol_USD" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_APP_4169C5DEEEB8F84FEFBFAC574BE2769B" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_APP_4169C5DEEEB8F84FEFBFAC574BE2769B" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_IMG_INFO_VAR_WWW_MAGENTO2_4_PUB_MEDIA_CATALOG_PRODUCT_CACHE_2F58BF1051A2F0CEBA166B720EC0A490_W_B_WB01_BLACK_MAIN__JPG" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_IMG_INFO_VAR_WWW_MAGENTO2_4_PUB_MEDIA_CATALOG_PRODUCT_CACHE_2F58BF1051A2F0CEBA166B720EC0A490_W_B_WB01_BLACK_MAIN__JPG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_LAYOUT_FRONTEND_STORE1_36F1B068EC7CCF4878F9284DD1137AFD1_PAGE_LAYOUT" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_LAYOUT_FRONTEND_STORE1_36F1B068EC7CCF4878F9284DD1137AFD1_PAGE_LAYOUT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_SERVICEINTERFACEMETHODSMAP_9AC6CB2145A86DC9A0C453CE3570399C" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_SERVICEINTERFACEMETHODSMAP_9AC6CB2145A86DC9A0C453CE3570399C" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_SERVICEINTERFACEMETHODSMAP_BA803A49A989A363B7E181E04ADE35E1" afterPath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_SERVICEINTERFACEMETHODSMAP_BA803A49A989A363B7E181E04ADE35E1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---4dd_COUNTRY_POSTCODES" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---4dd_COUNTRY_POSTCODES" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---4dd_EAV_ENTITY_TYPES" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---4dd_EAV_ENTITY_TYPES" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---4dd_SERVICEINTERFACEMETHODSMAP_39BE54A5DBF0524BA181CEB76C00A9B4" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---4dd_SERVICEINTERFACEMETHODSMAP_39BE54A5DBF0524BA181CEB76C00A9B4" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---4dd_SERVICEINTERFACEMETHODSMAP_BE4BCB12426F6653C23C865F72553721" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---4dd_SERVICEINTERFACEMETHODSMAP_BE4BCB12426F6653C23C865F72553721" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_CATALOG_ATTRIBUTES" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_CATALOG_ATTRIBUTES" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_EAV_ENTITY_ATTRIBUTESCATALOG_PRODUCT" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_EAV_ENTITY_ATTRIBUTESCATALOG_PRODUCT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_GLOBAL_WEBAPI_REST_PLUGIN_LIST" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_GLOBAL_WEBAPI_REST_PLUGIN_LIST" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_LAYOUT_FRONTEND_STORE1_3177627F91AF678A9B03E993F1A91917F_PAGE_LAYOUT" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_LAYOUT_FRONTEND_STORE1_3177627F91AF678A9B03E993F1A91917F_PAGE_LAYOUT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164_PAGE_LAYOUT" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164_PAGE_LAYOUT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_PRODUCT_TYPES_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_PRODUCT_TYPES_CONFIG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_SERVICE_METHOD_PARAMS_BC80730C6E76AB17A010DE08F4CE07E2" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_SERVICE_METHOD_PARAMS_BC80730C6E76AB17A010DE08F4CE07E2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_ADDRESS_FORMAT" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_ADDRESS_FORMAT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_EAV_ENTITY_ATTRIBUTES_2_0_0" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_EAV_ENTITY_ATTRIBUTES_2_0_0" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_EXTENSION_ATTRIBUTES_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_EXTENSION_ATTRIBUTES_CONFIG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_SERVICEINTERFACEMETHODSMAP_8AFF9069C98868647F5DCF0390D3D080" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_SERVICEINTERFACEMETHODSMAP_8AFF9069C98868647F5DCF0390D3D080" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_1COLUMN" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_1COLUMN" />
@@ -143,41 +94,31 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CAT_C" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CAT_C" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CAT_P" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CAT_P" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CAT_P_1" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CAT_P_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CHECKOUT" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CHECKOUT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CHECKOUT_CART_INDEX" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CHECKOUT_CART_INDEX" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CHECKOUT_INDEX_INDEX" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CHECKOUT_INDEX_INDEX" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_B" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_B" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_INDEX_INDEX" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_INDEX_INDEX" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_INDEX_INDEX_ID_HOME" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_INDEX_INDEX_ID_HOME" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_PAGE_VIEW" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_PAGE_VIEW" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_COLLECTION_DATA" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_COLLECTION_DATA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_COMPILED_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_COMPILED_CONFIG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CONFIG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CONFIG_SCOPES" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CONFIG_SCOPES" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CORE_DESIGN" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CORE_DESIGN" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_DB_DDL" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_DB_DDL" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_DB_PDO_MYSQL_DDL" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_DB_PDO_MYSQL_DDL" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_DEFAULT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_EAV" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_EAV" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_EAV_ATTRIBUTE" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_EAV_ATTRIBUTE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_IMG_INFO" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_IMG_INFO" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_LAYOUT_GENERAL_CACHE_TAG" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_LAYOUT_GENERAL_CACHE_TAG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_MAGE" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_MAGE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_REFLECTION" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_REFLECTION" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_STORE" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_STORE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_STORE_RELATIONS" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_STORE_RELATIONS" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_TRANSLATE" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_TRANSLATE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_Zend_Locale" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_Zend_Locale" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/log/debug.log" afterPath="$PROJECT_DIR$/var/log/debug.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/log/system.log" afterPath="$PROJECT_DIR$/var/log/system.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CAT_C" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CAT_C" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CAT_P" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CAT_P" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CAT_P_1" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CAT_P_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CMS_B" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CMS_B" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CMS_P_1" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CMS_P_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CMS_P_2" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CMS_P_2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_STORE" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_STORE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/js/action/set-coupon-code.js" afterPath="$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/js/action/set-coupon-code.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -199,11 +140,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="discount.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="discount.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
               <caret line="74" column="16" lean-forward="false" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CouponPost.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/Controller/Multi/CouponPost.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="626">
+              <caret line="166" column="136" lean-forward="false" selection-start-line="166" selection-start-column="136" selection-end-line="166" selection-end-column="136" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coupon.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/templates/cart/coupon.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -354,12 +315,12 @@
         <option value="$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/template/payment/discount.html" />
         <option value="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/layout/checkout_index_index.xml" />
         <option value="$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/js/view/payment/discount.js" />
-        <option value="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/templates/cart/coupon.phtml" />
         <option value="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/template/payment/discount.html" />
-        <option value="$PROJECT_DIR$/app/code/Multi/Coupon/Controller/Multi/CouponPost.php" />
         <option value="$PROJECT_DIR$/app/code/Multi/Coupon/Model/Validator.php" />
         <option value="$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/js/action/set-coupon-code.js" />
         <option value="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount.js" />
+        <option value="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/templates/cart/coupon.phtml" />
+        <option value="$PROJECT_DIR$/app/code/Multi/Coupon/Controller/Multi/CouponPost.php" />
       </list>
     </option>
   </component>
@@ -957,12 +918,12 @@
       <workItem from="1530693881315" duration="7838000" />
       <workItem from="1530755895287" duration="23996000" />
       <workItem from="1530842464916" duration="17380000" />
-      <workItem from="1531102145265" duration="21284000" />
+      <workItem from="1531102145265" duration="21879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="531910000" />
+    <option name="totallyTimeSpent" value="532505000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1234,14 +1195,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/Controller/Multi/CouponPost.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="160" column="71" lean-forward="false" selection-start-line="160" selection-start-column="71" selection-end-line="160" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/Model/RulesApplier.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -1360,14 +1313,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/templates/cart/coupon.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="47" column="69" lean-forward="true" selection-start-line="47" selection-start-column="69" selection-end-line="47" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/layout/checkout_cart_index.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
@@ -1380,6 +1325,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="74" column="16" lean-forward="false" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/templates/cart/coupon.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/Controller/Multi/CouponPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="166" column="136" lean-forward="false" selection-start-line="166" selection-start-column="136" selection-end-line="166" selection-end-column="136" />
           <folding />
         </state>
       </provider>

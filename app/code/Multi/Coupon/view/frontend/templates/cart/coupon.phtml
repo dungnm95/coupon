@@ -19,7 +19,7 @@
                                                "removeCouponSelector": "#remove-coupon",
                                                "inputCouponSelector": "#remove_coupon",
                                                "applyButton": "button.action.apply",
-                                               "cancelButton": "a.action.cancel"}}'>
+                                               "cancelButton": "a.cancel"}}'>
             <div class="fieldset coupon<?= strlen($block->getCouponCode()) ? ' applied' : '' ?>">
                 <input type="hidden" name="remove" id="remove-coupon" value="0" />
                 <div class="field">
@@ -48,7 +48,7 @@
                         <div style="width:100%;margin-bottom: 10px;">
                             <div class="actions-toolbar">
                                 <span><?= $coupon ?></span>
-                                <a href="#" class="action cancel">Remove</a>
+                                <a href="#" class="cancel">Remove</a>
                             </div>
                         </div>
 
