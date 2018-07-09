@@ -50,6 +50,7 @@ define([
                 messageContainer.addSuccessMessage({
                     'message': message
                 });
+
             }
         }).fail(function (response) {
             fullScreenLoader.stopLoader();

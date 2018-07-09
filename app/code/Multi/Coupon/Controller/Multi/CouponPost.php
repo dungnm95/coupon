@@ -74,9 +74,11 @@ class CouponPost extends \Magento\Checkout\Controller\Cart
 
         $cartQuote = $this->cart->getQuote();
         $oldCouponCode = $cartQuote->getCouponCode();
-
+        $coupon_code_input = trim($this->getRequest()->getParam('coupon_code'));
 
         try {
+            $check_coupon = true;
+
             if ($this->getRequest()->getParam('remove') == 1) {
 //            return $this->_goBack();
                 $array_old_coupon = explode(',', $oldCouponCode);
@@ -90,13 +92,21 @@ class CouponPost extends \Magento\Checkout\Controller\Cart
                 $couponCode = implode(',', $array_coupon_after_remove);
 
             } else {
+//                \Zend_Debug::dump($oldCouponCode . '/' . $couponCode); die('dd');
                 if ($oldCouponCode) {
-
-                    if ($oldCouponCode == $couponCode) {
+                    $coupon = $this->couponFactory->create();
+                    $coupon->load($couponCode, 'code');
+                    if (!$coupon->getId()) {
+                        $check_coupon = false;
                         $couponCode = $oldCouponCode;
                     } else {
-                        $couponCode = $oldCouponCode . ',' . $couponCode;
+                        if ($oldCouponCode == $couponCode) {
+                            $couponCode = $oldCouponCode;
+                        } else {
+                            $couponCode = $oldCouponCode . ',' . $couponCode;
+                        }
                     }
+
                 }
             }
             $codeLength = strlen($couponCode);
@@ -113,16 +123,10 @@ class CouponPost extends \Magento\Checkout\Controller\Cart
 
             if ($codeLength) {
                 $escaper = $this->_objectManager->get(\Magento\Framework\Escaper::class);
-                $check_coupon = true;
 
                 $array_coupon = explode(',', $couponCode);
                 foreach ($array_coupon as $code) {
-                    $coupon = $this->couponFactory->create();
-                    $coupon->load($code, 'code');
-                    if (!$coupon->getId()) {
-                        $check_coupon = false;
-                        break;
-                    }
+
                 }
 
                 if (!$itemsCount) {
@@ -131,14 +135,14 @@ class CouponPost extends \Magento\Checkout\Controller\Cart
                         $this->messageManager->addSuccess(
                             __(
                                 'You used coupon code "%1".',
-                                $escaper->escapeHtml($couponCode)
+                                $escaper->escapeHtml($coupon_code_input)
                             )
                         );
                     } else {
                         $this->messageManager->addError(
                             __(
                                 'The coupon code "%1" is not valid.',
-                                $escaper->escapeHtml($couponCode)
+                                $escaper->escapeHtml($coupon_code_input)
                             )
                         );
                     }
@@ -147,14 +151,14 @@ class CouponPost extends \Magento\Checkout\Controller\Cart
                         $this->messageManager->addSuccess(
                             __(
                                 'You used coupon code "%1".',
-                                $escaper->escapeHtml($couponCode)
+                                $escaper->escapeHtml($coupon_code_input)
                             )
                         );
                     } else {
                         $this->messageManager->addError(
                             __(
                                 'The coupon code "%1" is not valid.',
-                                $escaper->escapeHtml($couponCode)
+                                $escaper->escapeHtml($coupon_code_input)
                             )
                         );
                     }

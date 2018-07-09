@@ -1,4 +1,4 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1530773091;s:6:"expire";i:9999999999;s:4:"tags";s:74:"4dd_DEFAULT,4dd_CHECKOUT_INDEX_INDEX,4dd_LAYOUT_GENERAL_CACHE_TAG,4dd_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1531129372;s:6:"expire";i:9999999999;s:4:"tags";s:74:"4dd_DEFAULT,4dd_CHECKOUT_INDEX_INDEX,4dd_LAYOUT_GENERAL_CACHE_TAG,4dd_MAGE";}
 <body>
    <referenceContainer name="header.panel">
       <block class="Magento\Directory\Block\Currency" name="currency" before="store_language" template="Magento_Directory::currency.phtml"/>
@@ -2135,6 +2135,65 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1530773091;s:6:"expire";i:9999999999;s:4:"t
    <referenceContainer name="before.body.end">
       <block class="Magento\Framework\View\Element\Template" name="emailCapture" template="Dotdigitalgroup_Email::email/email_capture_checkout.phtml"/>
    </referenceContainer>
+</body>
+<body>
+   <referenceBlock name="checkout.root">
+      <arguments>
+         <argument name="jsLayout" xsi:type="array">
+            <item name="components" xsi:type="array">
+               <item name="checkout" xsi:type="array">
+                  <item name="children" xsi:type="array">
+                     <item name="steps" xsi:type="array">
+                        <item name="children" xsi:type="array">
+                           <item name="billing-step" xsi:type="array">
+                              <item name="component" xsi:type="string">uiComponent</item>
+                              <item name="children" xsi:type="array">
+                                 <item name="payment" xsi:type="array">
+                                    <item name="children" xsi:type="array">
+                                       <item name="afterMethods" xsi:type="array">
+                                          <item name="children" xsi:type="array">
+                                             <item name="discount" xsi:type="array">
+                                                <item name="component" xsi:type="string">Multi_Coupon/js/view/payment/discount</item>
+                                                <item name="children" xsi:type="array">
+                                                   <item name="errors" xsi:type="array">
+                                                      <item name="sortOrder" xsi:type="string">0</item>
+                                                      <item name="component" xsi:type="string">Multi_Coupon/js/view/payment/discount-messages</item>
+                                                      <item name="displayArea" xsi:type="string">messages</item>
+                                                   </item>
+                                                </item>
+                                             </item>
+                                          </item>
+                                       </item>
+                                    </item>
+                                 </item>
+                              </item>
+                           </item>
+                        </item>
+                     </item>
+                     <item name="sidebar" xsi:type="array">
+                        <item name="children" xsi:type="array">
+                           <item name="summary" xsi:type="array">
+                              <item name="children" xsi:type="array">
+                                 <item name="totals" xsi:type="array">
+                                    <item name="children" xsi:type="array">
+                                       <item name="discount" xsi:type="array">
+                                          <item name="component" xsi:type="string">Multi_Coupon/js/view/summary/discount</item>
+                                          <item name="config" xsi:type="array">
+                                             <item name="title" translate="true" xsi:type="string">Discount</item>
+                                          </item>
+                                       </item>
+                                    </item>
+                                 </item>
+                              </item>
+                           </item>
+                        </item>
+                     </item>
+                  </item>
+               </item>
+            </item>
+         </argument>
+      </arguments>
+   </referenceBlock>
 </body>
 <body>
    <referenceBlock name="checkout.root">

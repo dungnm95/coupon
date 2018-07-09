@@ -15,6 +15,7 @@ define([
 
     var totals = quote.getTotals(),
         couponCode = ko.observable(null),
+        ApplyCode = ko.observable(null),
         isApplied;
 
     if (totals()) {
@@ -24,33 +25,15 @@ define([
 
     return Component.extend({
         defaults: {
-            template: 'Magento_SalesRule/payment/discount'
+            template: 'Multi_Coupon/payment/discount'
         },
         couponCode: couponCode,
+        ApplyCode: ApplyCode,
 
         /**
          * Applied flag
          */
         isApplied: isApplied,
-
-        /**
-         * Coupon code application procedure
-         */
-        apply: function () {
-            if (this.validate()) {
-                setCouponCodeAction(couponCode(), isApplied);
-            }
-        },
-
-        /**
-         * Cancel using coupon
-         */
-        cancel: function () {
-            if (this.validate()) {
-                couponCode('');
-                cancelCouponAction(isApplied);
-            }
-        },
 
         /**
          * Coupon form validation
@@ -61,6 +44,60 @@ define([
             var form = '#discount-form';
 
             return $(form).validation() && $(form).validation('isValid');
-        }
+        },
+
+        /**
+         * Coupon code application procedure
+         */
+
+        apply: function () {
+
+            var list_code = '';
+            var check_coupon_code = setCouponCodeAction(ApplyCode(), isApplied);
+            var list_old_coupon = '';
+            if (couponCode() != null && couponCode() != '') {
+                list_old_coupon = couponCode();
+            }
+            couponCode(list_old_coupon);
+            setTimeout(function(){
+                if(check_coupon_code.status != 200){
+                        list_code = list_old_coupon;
+                }else{
+                    if (list_old_coupon != '') {
+                        list_code = list_old_coupon + ',' + ApplyCode();
+                    } else {
+                        list_code = ApplyCode();
+                    }
+                }
+                couponCode(list_code);
+                setCouponCodeAction(couponCode(), isApplied);
+                ApplyCode('');
+            }, 800);
+
+
+        },
+
+        /**
+         * Cancel using coupon
+         */
+        cancel: function (code) {
+
+            var new_list_coupon = '';
+            if (couponCode().indexOf(',') == -1) {
+                new_list_coupon = '';
+            } else {
+                new_list_coupon = couponCode().replace(',' + code, '');
+            }
+            couponCode(new_list_coupon);
+            if (new_list_coupon != '') {
+                setCouponCodeAction(new_list_coupon, isApplied);
+            } else {
+                cancelCouponAction(isApplied);
+            }
+
+
+        },
+
+
     });
 });

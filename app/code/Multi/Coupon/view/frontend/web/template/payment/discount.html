@@ -27,23 +27,32 @@
                                id="discount-code"
                                name="discount_code"
                                data-validate="{'required-entry':true}"
-                               data-bind="value: couponCode, attr:{disabled:isApplied() , placeholder: $t('Enter discount code')} " />
+                               data-bind="value:ApplyCode, attr:{ placeholder: $t('Enter discount code')} "/>
+                        <input hidden data-bind="value: couponCode"/>
                     </div>
                 </div>
             </div>
             <div class="actions-toolbar">
                 <div class="primary">
-                    <!-- ko ifnot: isApplied() -->
-                        <button class="action action-apply" type="submit" data-bind="'value': $t('Apply Discount'), click: apply">
-                            <span><!-- ko i18n: 'Apply Discount'--><!-- /ko --></span>
-                        </button>
+                    <button class="action action-apply" type="submit"
+                            data-bind="'value': $t('Apply Discount'), click: apply">
+                        <span><!-- ko i18n: 'Apply Discount'--><!-- /ko --></span>
+                    </button>
+
+                </div>
+                <!-- ko if: isApplied() -->
+                <div style="margin-top: 30px">
+                    <h5>List applied coupon code:</h5>
+                    <!-- ko foreach: { data: couponCode().split(','), as: 'code' } -->
+                    <!-- ko if : code.length > 0 -->
+                        <div style="width: 100%; margin-bottom: 10px;">
+                            <span data-bind="text: code"></span>
+                            <a href="#" data-bind="'value': code, click: $parent.cancel">Remove</a>
+                        </div>
                     <!-- /ko -->
-                    <!-- ko if: isApplied() -->
-                        <button class="action action-cancel" type="submit" data-bind="'value': $t('Cancel'), click: cancel">
-                            <span><!-- ko i18n: 'Cancel coupon'--><!-- /ko --></span>
-                        </button>
                     <!-- /ko -->
                 </div>
+                <!-- /ko -->
             </div>
         </form>
     </div>

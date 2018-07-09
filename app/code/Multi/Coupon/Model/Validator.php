@@ -20,9 +20,10 @@ class Validator extends \Magento\SalesRule\Model\Validator
         }
         $array_coupon = explode(',', $this->getCouponCode());
         foreach ($array_coupon as $coupon){
+            $get_rule = $this->_getRule($item->getAddress(), $coupon);
             $appliedRuleIds = $this->rulesApplier->applyRules(
                 $item,
-                $this->_getRule($item->getAddress(), $coupon),
+                $get_rule,
                 $this->_skipActionsValidation,
                 $coupon
             );
