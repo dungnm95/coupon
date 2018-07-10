@@ -549,3 +549,5 @@
 [2018-07-05 05:05:05] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"}} []
 [2018-07-05 07:41:35] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"}} []
 [2018-07-05 07:41:41] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"}} []
+[2018-07-10 03:04:27] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"}} []
+[2018-07-10 03:04:32] main.DEBUG: cache_invalidate:  {"method":"GET","url":"http:/","invalidateInfo":{"tags":["interception","CONFIG"],"mode":"matchingTag"}} []

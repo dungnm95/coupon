@@ -5,7 +5,7 @@
 
 define([
     'Magento_Ui/js/view/messages',
-    '../../model/payment/discount-messages'
+    'Multi_Coupon/js/model/payment/discount-messages'
 ], function (Component, messageContainer) {
     'use strict';
 

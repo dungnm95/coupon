@@ -8,8 +8,8 @@ define([
     'ko',
     'uiComponent',
     'Magento_Checkout/js/model/quote',
-    'Magento_SalesRule/js/action/set-coupon-code',
-    'Magento_SalesRule/js/action/cancel-coupon'
+    'Multi_Coupon/js/action/set-coupon-code',
+    'Multi_Coupon/js/action/cancel-coupon'
 ], function ($, ko, Component, quote, setCouponCodeAction, cancelCouponAction) {
     'use strict';
 

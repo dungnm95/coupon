@@ -12,7 +12,7 @@ define([
     'Magento_Checkout/js/model/quote',
     'Magento_Checkout/js/model/resource-url-manager',
     'Magento_Checkout/js/model/error-processor',
-    'Magento_SalesRule/js/model/payment/discount-messages',
+    'Multi_Coupon/js/model/payment/discount-messages',
     'mage/storage',
     'mage/translate',
     'Magento_Checkout/js/action/get-payment-information',
@@ -25,8 +25,7 @@ define([
 
     return function (couponCode, isApplied) {
         var quoteId = quote.getQuoteId(),
-            url = urlManager.getApplyCouponUrl(couponCode, quoteId),
-            message = $t('Your coupon was successfully applied.');
+            url = urlManager.getApplyCouponUrl(couponCode, quoteId);
 
         fullScreenLoader.startLoader();
 
@@ -48,7 +47,7 @@ define([
                     totals.isLoading(false);
                 });
                 messageContainer.addSuccessMessage({
-                    'message': message
+                    'message': $t('Your coupon "'+couponCode+'" was successfully applied.')
                 });
             }
         }).fail(function (response) {
