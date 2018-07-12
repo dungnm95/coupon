@@ -2,473 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="015621d7-8fb8-45c5-9b37-8e954e802765" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_DB_PDO_MYSQL_DDL_SALES_ORDER_STATUS_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_DESIGN_CHANGE_78DB3BD5FBEB71B013C18E23348CDB95" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_STRUCTURE_LAYOUT_FRONTEND_STORE1_3D41D8CD98F00B204E9800998ECF8427E" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_BLOCK_6CAB8C9B28D57DE1F1B0BF5EFE242DA6E9408F81" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_DESIGN_CHANGE_49D8FF8D3ED20D4DDDFFEF1042038776" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_EAV_ENTITY_ATTRIBUTES_3_0_0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_SERVICEINTERFACEMETHODSMAP_5180E7EBB41FBD18E09D71DE00F12C55" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_THEME_BY_ID_2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_DESIGN_CHANGE_C45DE0ED34E4BB6C384E76BF50A2EAED" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_LAYOUT_FRONTEND_STORE1_3D41D8CD98F00B204E9800998ECF8427E" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_EAV_ENTITY_ATTRIBUTES_3_1_3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_LAYOUT_FRONTEND_STORE1_30A98983867A1770682B48D9A0AD63441_PAGE_LAYOUT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_THEMEADMINHTML_MAGENTO_BACKEND" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_DB_PDO_MYSQL_DDL_CATALOG_PRODUCT_ENTITY_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_GLOBAL_ADMINHTML_PLUGIN_LIST" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_LAYOUT_FRONTEND_STORE1_30A98983867A1770682B48D9A0AD63441" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_STRUCTURE_LAYOUT_FRONTEND_STORE1_3E13260053F56644D576F1E487266F9A1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---4dd_PRODUCT_LISTING_ATTRIBUTES4_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_COLLECTION_01070DC35759FD33A31F3F35A7130548" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_DB_PDO_MYSQL_DDL_CATALOG_CATEGORY_ENTITY_3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_IMG_INFO_VAR_WWW_MAGENTO2_4_PUB_MEDIA_CATALOG_PRODUCT_CACHE_F073062F50E48EB0F0998593E568D857_W_B_WB01_BLACK_MAIN__JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_ADMIN_NOTIFICATIONS_LASTCHECK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_RELEASE_NOTIFICATION_POPUP_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_TRANSLATE_EN_US_FRONTEND_DEFAULT_MAGENTO_LUMA_MULTI_COUPON" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--b/mage---4dd_LAYOUT_FRONTEND_STORE1_3E13260053F56644D576F1E487266F9A1_PAGE_LAYOUT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_IMG_INFO_VAR_WWW_MAGENTO2_4_PUB_MEDIA_CATALOG_PRODUCT_CACHE_2F58BF1051A2F0CEBA166B720EC0A490_W_B_WB01_BLACK_MAIN__JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_LAYOUT_FRONTEND_STORE1_3E13260053F56644D576F1E487266F9A1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---4dd_SERVICE_METHOD_PARAMS_B04F85D209E73E5D5818192CBB86573F" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_LAYOUT_FRONTEND_STORE1_3D41D8CD98F00B204E9800998ECF8427E_PAGE_LAYOUT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_TRANSLATE_EN_US_FRONTEND_DEFAULT_MAGENTO_LUMA_MAGENTO_CUSTOMER" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_EAV_ENTITY_ATTRIBUTESCATALOG_CATEGORY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_1COLUMN" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_2COLUMNS_RIGHT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_ACL_CACHE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_ADMINHTML_AUTH_LOGIN" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_ADMINHTML_DASHBOARD_INDEX" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_ADMINHTML_SYSTEM_CONFIG_EDIT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_ADMIN_1COLUMN" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_ADMIN_2COLUMNS_LEFT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_ADMIN_LOGIN" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_BACKEND_MAINMENU" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CAT_C" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CAT_P" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CAT_P_1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CHECKOUT_CART_INDEX" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CHECKOUT_ONEPAGE_SUCCESS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_INDEX_INDEX" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_INDEX_INDEX_ID_HOME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_NOROUTE_INDEX" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_NOROUTE_INDEX_ID_NO_ROUTE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_PAGE_VIEW" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_IMG_INFO" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_SALES_EMAIL_ORDER_ITEMS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_SALES_RULE_PROMO_QUOTE_EDIT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_SALES_RULE_PROMO_QUOTE_INDEX" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_AdminNotification/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_AdvancedCheckout/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Analytics/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/_module-old.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/_footer.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/_header.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/_main.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/_menu.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/header/_actions-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/header/_headings-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/header/actions-group/_notifications.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/header/actions-group/_search.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/header/actions-group/_user.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/main/_actions-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/main/_collapsible-blocks.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/main/_page-nav.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/main/_store-scope.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/main/actions-bar/_store-switcher.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/pages/_access-denied.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/pages/_cache-management.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/pages/_dashboard.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Backend/css/source/module/pages/_login.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Banner/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Braintree/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/css/source/_module-old.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Catalog/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_CatalogPermissions/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Config/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/_module-old.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/module/components/_attributes_template_popup.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/module/components/_currency-addon.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/module/components/_grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/module/components/_navigation-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/module/components/_steps-wizard.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/module/components/navigation-bar/_buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/module/components/navigation-bar/_navigation-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/module/steps/_attribute-values.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/module/steps/_bulk-images.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/module/steps/_select-attributes.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ConfigurableProduct/css/source/module/steps/_summary.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_CurrencySymbol/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Customer/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_CustomerBalance/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Developer/css/source/_module-old.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Downloadable/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Enterprise/css/source/_module-old.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_GiftCard/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_GiftRegistry/css/source/_module-old.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_GiftRegistry/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_GiftWrapping/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Integration/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Marketplace/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Msrp/css/source/_module-old.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ProductVideo/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_ReleaseNotification/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Review/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Reward/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Rma/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Sales/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Sales/css/source/module/_edit-order.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Sales/css/source/module/_order.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Sales/css/source/module/order/_address.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Sales/css/source/module/order/_discounts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Sales/css/source/module/order/_gift-options.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Sales/css/source/module/order/_items.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Sales/css/source/module/order/_order-account.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Sales/css/source/module/order/_order-comments.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Sales/css/source/module/order/_payment-shipping.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Sales/css/source/module/order/_sidebar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Sales/css/source/module/order/_sku.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Sales/css/source/module/order/_total.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Shipping/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Signifyd/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Signifyd/css/source/module/_config.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Signifyd/css/source/module/_order.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Staging/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Staging/css/source/module/_scheduled-changes-modal.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Staging/css/source/module/_scheduled-changes.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Staging/css/source/module/_staging-data-tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Staging/css/source/module/_staging-preview.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Tax/css/source/_module-old.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Tax/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Theme/css/source/_module-old.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Translation/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/css/source/_module-old.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/css/source/module/_data-grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/css/source/module/data-grid/_data-grid-header.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/css/source/module/data-grid/_data-grid-static.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/css/source/module/data-grid/data-grid-header/_data-grid-action-bookmarks.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/css/source/module/data-grid/data-grid-header/_data-grid-action-columns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/css/source/module/data-grid/data-grid-header/_data-grid-action-export.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/css/source/module/data-grid/data-grid-header/_data-grid-filters.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/css/source/module/data-grid/data-grid-header/_data-grid-pager.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Ui/css/source/module/data-grid/data-grid-header/_data-grid-sticky-header.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_Vault/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_VersionsCms/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Magento_VisualMerchandiser/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Temando_Shipping/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/Temando_Shipping/css/source/_popup.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_actions.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_classes.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_components.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_extends.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_lists.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_reset.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_responsive.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_sources.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_structure.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_tabs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_typography.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/_variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/actions/_actions-dropdown.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/actions/_actions-multicheck.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/actions/_actions-multiselect.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/actions/_actions-select.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/actions/_actions-split.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/actions/_actions-switcher.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_calendar-temp.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_data-tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_file-insertion.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_file-uploader.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_media-gallery.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_messages.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_modals_extend.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_popups-old.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_popups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_resizable-block.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_rules-temp.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_slider.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_spinner.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/components/_timeline.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/forms/_controls.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/forms/_extends.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/forms/_fields.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/forms/_form-wysiwyg.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/forms/_temp.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/forms/controls/_checkbox-radio.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/forms/fields/_control-collapsible.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/forms/fields/_control-table.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/forms/fields/_field-reset.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/forms/fields/_field-tooltips.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_actions-toolbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_grids.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_layout.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_lib.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_loaders.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_messages.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_navigation.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_pages.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_popups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_rating.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_resets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_sections.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_tooltips.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_typography.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/_variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_actions-toolbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_colors.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_components.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_layout.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_loaders.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_messages.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_navigation.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_pages.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_popups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_rating.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_responsive.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_sections.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_structure.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_tooltips.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/lib/variables/_typography.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/utilities/_actions.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/utilities/_animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/utilities/_grid-framework.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/utilities/_grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/utilities/_spinner.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/variables/_actions.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/variables/_animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/variables/_colors.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/variables/_components.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/variables/_data-grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/variables/_forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/variables/_icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/variables/_spinner.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/variables/_structure.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/source/variables/_typography.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/styles-old.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/styles-old.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/css/styles.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/js-translation.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/clearless/_all.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/clearless/_arrows.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/clearless/_helpers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/clearless/_icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/clearless/_settings.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/clearless/_sprites.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/styles/_abstract.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/styles/_base.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/styles/_table.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/adminhtml/Magento/backend/en_US/mui/styles/_vars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Amazon_Login/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Amazon_Login/css/source/module/_vars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Amazon_Payment/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_AdvancedCheckout/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_AdvancedCheckout/css/source/_widgets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_AdvancedSearch/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Banner/css/source/_widgets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Braintree/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Bundle/css/source/_email.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Bundle/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/css/source/_widgets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/css/source/module/_listings.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Catalog/css/source/module/_toolbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_CatalogEvent/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_CatalogEvent/css/source/_widgets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_CatalogSearch/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/_cart.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/_checkout.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/_minicart.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_authentication.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_checkout-agreements.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_checkout.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_estimated-total.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_fields.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_order-summary.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_payment-options.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_payments.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_progress-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_shipping-policy.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_shipping.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_sidebar-shipping-information.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_sidebar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Checkout/css/source/module/checkout/_tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Cms/css/source/_widgets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Customer/css/source/_email.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Customer/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_CustomerBalance/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Downloadable/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_GiftCard/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_GiftCardAccount/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_GiftMessage/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_GiftRegistry/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_GiftRegistry/css/source/_widgets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_GiftWrapping/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_GroupedProduct/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_InstantPurchase/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Invitation/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_LayeredNavigation/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Msrp/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_MultipleWishlist/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_MultipleWishlist/css/source/_widgets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Multishipping/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Newsletter/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Paypal/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Paypal/css/source/module/_billing.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Paypal/css/source/module/_paypal-button.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Paypal/css/source/module/_review.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_ProductVideo/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Reports/css/source/_widgets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Review/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Reward/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Rma/css/source/_email.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Rma/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Sales/css/source/_email.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Sales/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Sales/css/source/_widgets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_SalesRule/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_SendFriend/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Theme/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Theme/css/source/module/_collapsible_navigation.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Vault/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_VersionsCms/css/source/_widgets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Weee/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Magento_Wishlist/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/Temando_Shipping/css/source/_module.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/_styles.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/email-inline.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/email-inline.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/email.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/email.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/print.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_actions-toolbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_components.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_email-base.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_email-extend.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_email-variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_extend.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_extends.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_layout.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_loaders.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_messages.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_navigation.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_pages.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_popups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_price.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_reset.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_sections.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_sources.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_tooltips.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_typography.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/_widgets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/components/_modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/components/_modals_extend.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_actions-toolbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_grids.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_layout.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_lib.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_loaders.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_messages.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_navigation.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_pages.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_popups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_rating.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_resets.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_responsive.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_sections.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_tooltips.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_typography.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/_variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_actions-toolbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_colors.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_components.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_email.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_icons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_layout.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_loaders.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_messages.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_navigation.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_pages.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_popups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_rating.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_responsive.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_sections.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_structure.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_tooltips.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/source/lib/variables/_typography.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/styles-l.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/styles-l.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/styles-m.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/css/styles-m.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/view_preprocessed/pub/static/frontend/Magento/luma/en_US/js-translation.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_SERVICEINTERFACEMETHODSMAP_CD4502CC8D5548379A23BCA94CC2DB13" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_SERVICEINTERFACEMETHODSMAP_EB5E27B2FA634C663D0361B6E7B929BE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---4dd_SERVICE_METHOD_PARAMS_C93EA926C33D8501399EDBFCDE9FAFB8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_SERVICEINTERFACEMETHODSMAP_9D473970BE5A1B12E12BDCB7498925DA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_SERVICE_METHOD_PARAMS_B957F6C078CBD5B6319D19E712954286" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_SERVICE_METHOD_PARAMS_BC80730C6E76AB17A010DE08F4CE07E2" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/action/cancel-coupon.js" afterPath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/action/cancel-coupon.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/action/set-coupon-code.js" afterPath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/action/set-coupon-code.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount-messages.js" afterPath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount-messages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/Multi/Coupon/Controller/Multi/CouponPost.php" afterPath="$PROJECT_DIR$/app/code/Multi/Coupon/Controller/Multi/CouponPost.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/templates/cart/coupon.phtml" afterPath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/templates/cart/coupon.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount.js" afterPath="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pub/static/deployed_version.txt" afterPath="$PROJECT_DIR$/pub/static/deployed_version.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_BLOCK_EDB5B9E02865B7F7CA80657ED4F592B8322D20A7" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_BLOCK_EDB5B9E02865B7F7CA80657ED4F592B8322D20A7" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_SERVICEINTERFACEMETHODSMAP_CD4502CC8D5548379A23BCA94CC2DB13" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_SERVICEINTERFACEMETHODSMAP_CD4502CC8D5548379A23BCA94CC2DB13" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_LAYOUT_FRONTEND_STORE1_3177627F91AF678A9B03E993F1A91917F" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_LAYOUT_FRONTEND_STORE1_3177627F91AF678A9B03E993F1A91917F" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_STRUCTURE_LAYOUT_FRONTEND_STORE1_36F1B068EC7CCF4878F9284DD1137AFD1" afterPath="$PROJECT_DIR$/var/cache/mage--0/mage---4dd_STRUCTURE_LAYOUT_FRONTEND_STORE1_36F1B068EC7CCF4878F9284DD1137AFD1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_EAV_ATTRIBUTE_WEBSITE_1" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_EAV_ATTRIBUTE_WEBSITE_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_EAV_ENTITY_ATTRIBUTES_4_0_0" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_EAV_ENTITY_ATTRIBUTES_4_0_0" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_GLOBAL_PLUGIN_LIST" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_GLOBAL_PLUGIN_LIST" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_SYSTEM" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_SYSTEM" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_Zend_LocaleC_en_US_parentlocale_" afterPath="$PROJECT_DIR$/var/cache/mage--1/mage---4dd_Zend_LocaleC_en_US_parentlocale_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_DB_PDO_MYSQL_DDL_EAV_ATTRIBUTE_1" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_DB_PDO_MYSQL_DDL_EAV_ATTRIBUTE_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_EAV_ENTITY_ATTRIBUTESCUSTOMER_ADDRESS" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_EAV_ENTITY_ATTRIBUTESCUSTOMER_ADDRESS" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_FRONTEND__RESOURCESCACHE" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_FRONTEND__RESOURCESCACHE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_GLOBAL_FRONTEND_PLUGIN_LIST" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_GLOBAL_FRONTEND_PLUGIN_LIST" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_INITIAL_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_INITIAL_CONFIG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_INTERCEPTION" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_INTERCEPTION" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_SYSTEM_STORES_ADMIN" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_SYSTEM_STORES_ADMIN" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_THEMEFRONTEND_MAGENTO_LUMA" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_THEMEFRONTEND_MAGENTO_LUMA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_THEME_BY_ID_3" afterPath="$PROJECT_DIR$/var/cache/mage--2/mage---4dd_THEME_BY_ID_3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_LAYOUT_FRONTEND_STORE1_3PAGE_LAYOUT" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_LAYOUT_FRONTEND_STORE1_3PAGE_LAYOUT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_SECTIONS_INVALIDATION_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_SECTIONS_INVALIDATION_CONFIG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_SERVICEINTERFACEMETHODSMAP_8AA9584338BFE0F55C9130DB849F49AA" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_SERVICEINTERFACEMETHODSMAP_8AA9584338BFE0F55C9130DB849F49AA" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_WEBAPI_REST__EVENT_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_WEBAPI_REST__EVENT_CONFIG_CACHE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_Zend_LocaleC_en_US_currencynumber_" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_Zend_LocaleC_en_US_currencynumber_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_Zend_LocaleC_en_US_currencysymbol_" afterPath="$PROJECT_DIR$/var/cache/mage--3/mage---4dd_Zend_LocaleC_en_US_currencysymbol_" />
@@ -477,15 +37,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_APP_CE79F7EF764E9F981C8549B9DBEC468F" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_APP_CE79F7EF764E9F981C8549B9DBEC468F" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_CRON_GROUPS_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_CRON_GROUPS_CONFIG_CACHE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_DB_PDO_MYSQL_DDL_QUOTE_SHIPPING_RATE_1" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_DB_PDO_MYSQL_DDL_QUOTE_SHIPPING_RATE_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_DESIGN_CHANGE_BA3FE2FC3939E4C214B535BB1E86449F" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_DESIGN_CHANGE_BA3FE2FC3939E4C214B535BB1E86449F" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_GLOBAL__EVENT_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_GLOBAL__EVENT_CONFIG_CACHE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_SYSTEM_SCOPES" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_SYSTEM_SCOPES" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_SYSTEM_STORES_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_SYSTEM_STORES_DEFAULT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_SYSTEM_WEBSITES_0" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_SYSTEM_WEBSITES_0" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_Zend_LocaleC_en_US_nametocurrency_" afterPath="$PROJECT_DIR$/var/cache/mage--4/mage---4dd_Zend_LocaleC_en_US_nametocurrency_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_KLARNA_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_KLARNA_CONFIG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_SALES_TOTALS_CONFIG_CACHE" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_SALES_TOTALS_CONFIG_CACHE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_SERVICEINTERFACEMETHODSMAP_0E68BB69149B169BBD284DDD9C06352D" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_SERVICEINTERFACEMETHODSMAP_0E68BB69149B169BBD284DDD9C06352D" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_SERVICEINTERFACEMETHODSMAP_4698576825FDA7A8C99B7EE1ACD43DC6" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_SERVICEINTERFACEMETHODSMAP_4698576825FDA7A8C99B7EE1ACD43DC6" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_STRUCTURE_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_STRUCTURE_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_Zend_LocaleL_en_US_symbols_" afterPath="$PROJECT_DIR$/var/cache/mage--5/mage---4dd_Zend_LocaleL_en_US_symbols_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_CORE_CACHE_INVALIDATE" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_CORE_CACHE_INVALIDATE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_LAYOUT_FRONTEND_STORE1_36F1B068EC7CCF4878F9284DD1137AFD1" afterPath="$PROJECT_DIR$/var/cache/mage--6/mage---4dd_LAYOUT_FRONTEND_STORE1_36F1B068EC7CCF4878F9284DD1137AFD1" />
@@ -496,14 +58,15 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---4dd_DB_PDO_MYSQL_DDL_QUOTE_ADDRESS_1" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---4dd_DB_PDO_MYSQL_DDL_QUOTE_ADDRESS_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---4dd_SYSTEM_WEBSITES_1" afterPath="$PROJECT_DIR$/var/cache/mage--7/mage---4dd_SYSTEM_WEBSITES_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_APP_35C0BF370AE35F8C482DC31B8A81FC2F" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_APP_35C0BF370AE35F8C482DC31B8A81FC2F" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_EAV_ATTRIBUTE_1" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_EAV_ATTRIBUTE_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_GROUP_1" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_GROUP_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_SORTED_QUOTE_COLLECTORS" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_SORTED_QUOTE_COLLECTORS" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_SYSTEM_STORES_1" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_SYSTEM_STORES_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_THEME_BY_ID_1" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_THEME_BY_ID_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_UI_COMPONENT_CONFIGURATION_DEFINITION_DATA" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_UI_COMPONENT_CONFIGURATION_DEFINITION_DATA" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_Zend_LocaleC_en_US_currencytoregion_US" afterPath="$PROJECT_DIR$/var/cache/mage--8/mage---4dd_Zend_LocaleC_en_US_currencytoregion_US" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_IS_UP_TO_DATE" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_IS_UP_TO_DATE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_PDO_MYSQL_DDL_CATALOG_PRODUCT_ENTITY_3" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_PDO_MYSQL_DDL_CATALOG_PRODUCT_ENTITY_3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_ADDRESS_ENTITY_3" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_PDO_MYSQL_DDL_CUSTOMER_ADDRESS_ENTITY_3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_PDO_MYSQL_DDL_SALESRULE_3" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_DB_PDO_MYSQL_DDL_SALESRULE_3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_GLOBAL__RESOURCESCACHE" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_GLOBAL__RESOURCESCACHE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_SYSTEM_DEFAULT" afterPath="$PROJECT_DIR$/var/cache/mage--9/mage---4dd_SYSTEM_DEFAULT" />
@@ -535,10 +98,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---4dd_SERVICEINTERFACEMETHODSMAP_BE4BCB12426F6653C23C865F72553721" afterPath="$PROJECT_DIR$/var/cache/mage--d/mage---4dd_SERVICEINTERFACEMETHODSMAP_BE4BCB12426F6653C23C865F72553721" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_CATALOG_ATTRIBUTES" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_CATALOG_ATTRIBUTES" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_EAV_ENTITY_ATTRIBUTESCATALOG_PRODUCT" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_EAV_ENTITY_ATTRIBUTESCATALOG_PRODUCT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_GLOBAL_WEBAPI_REST_PLUGIN_LIST" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_GLOBAL_WEBAPI_REST_PLUGIN_LIST" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_LAYOUT_FRONTEND_STORE1_3177627F91AF678A9B03E993F1A91917F_PAGE_LAYOUT" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_LAYOUT_FRONTEND_STORE1_3177627F91AF678A9B03E993F1A91917F_PAGE_LAYOUT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164_PAGE_LAYOUT" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_LAYOUT_FRONTEND_STORE1_39779D713E3FBB1543956771D12CF7164_PAGE_LAYOUT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_PRODUCT_TYPES_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_PRODUCT_TYPES_CONFIG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_SERVICE_METHOD_PARAMS_BC80730C6E76AB17A010DE08F4CE07E2" afterPath="$PROJECT_DIR$/var/cache/mage--e/mage---4dd_SERVICE_METHOD_PARAMS_BC80730C6E76AB17A010DE08F4CE07E2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_ADDRESS_FORMAT" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_ADDRESS_FORMAT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_EAV_ENTITY_ATTRIBUTES_2_0_0" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_EAV_ENTITY_ATTRIBUTES_2_0_0" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_EXTENSION_ATTRIBUTES_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_EXTENSION_ATTRIBUTES_CONFIG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_SERVICEINTERFACEMETHODSMAP_8AFF9069C98868647F5DCF0390D3D080" afterPath="$PROJECT_DIR$/var/cache/mage--f/mage---4dd_SERVICEINTERFACEMETHODSMAP_8AFF9069C98868647F5DCF0390D3D080" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_BLOCK_HTML" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_BLOCK_HTML" />
@@ -547,7 +111,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CHECKOUT_INDEX_INDEX" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CHECKOUT_INDEX_INDEX" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_B" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CMS_B" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_COLLECTION_DATA" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_COLLECTION_DATA" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_COMPILED_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_COMPILED_CONFIG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CONFIG" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CONFIG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CONFIG_SCOPES" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CONFIG_SCOPES" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CORE_DESIGN" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_CORE_DESIGN" />
@@ -563,13 +126,18 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_STORE_RELATIONS" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_STORE_RELATIONS" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_TRANSLATE" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_TRANSLATE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_Zend_Locale" afterPath="$PROJECT_DIR$/var/cache/mage-tags/mage---4dd_Zend_Locale" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/log/debug.log" afterPath="$PROJECT_DIR$/var/log/debug.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/log/exception.log" afterPath="$PROJECT_DIR$/var/log/exception.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/log/system.log" afterPath="$PROJECT_DIR$/var/log/system.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CAT_C" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CAT_C" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CAT_P" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CAT_P" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CAT_P_1" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CAT_P_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CMS_B" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CMS_B" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CMS_P_1" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CMS_P_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CMS_P_2" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_CMS_P_2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_FPC" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_FPC" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_MAGE" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_MAGE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_STORE" afterPath="$PROJECT_DIR$/var/page_cache/mage-tags/mage---4dd_STORE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/magento/module-customer/Model/ResourceModel/Customer.php" afterPath="$PROJECT_DIR$/vendor/magento/module-customer/Model/ResourceModel/Customer.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -591,53 +159,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="discount.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-535">
-              <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="set-coupon-code.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/action/set-coupon-code.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="49" column="61" lean-forward="false" selection-start-line="49" selection-start-column="61" selection-end-line="49" selection-end-column="61" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="module.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/etc/module.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="di.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/etc/frontend/di.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="53" lean-forward="false" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/etc/frontend/routes.xml">
+      <file leaf-file-name="webapi.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/etc/webapi.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webapi.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/magento/module-quote/etc/webapi.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="44" column="101" lean-forward="false" selection-start-line="44" selection-start-column="75" selection-end-line="44" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Collection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Model/ResourceModel/Customer/Collection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="86" column="79" lean-forward="true" selection-start-line="86" selection-start-column="79" selection-end-line="86" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Customer.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Model/ResourceModel/Customer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1349">
+              <caret line="120" column="30" lean-forward="false" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartManagementInterface.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/magento/module-quote/Api/CartManagementInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="36" column="58" lean-forward="false" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -655,16 +221,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>$couponCode</find>
-      <find>setValidationFilter</find>
-      <find>The coupon code &quot;%1&quot; is not valid.</find>
-      <find>collect</find>
-      <find>proccess</find>
-      <find>remove-coupon</find>
-      <find>removeCouponSelector</find>
-      <find>remove</find>
-      <find>c</find>
-      <find>discount-code</find>
       <find>checkout.root</find>
       <find>checkout-payment-method-load</find>
       <find>view</find>
@@ -685,6 +241,16 @@
       <find>get-totals</find>
       <find>getTotalsAction</find>
       <find>storage</find>
+      <find>process</find>
+      <find>_getRule</find>
+      <find>Customer</find>
+      <find>CustomerRepositoryInterface</find>
+      <find>= 'manage</find>
+      <find>anonymous</find>
+      <find>changePassword</find>
+      <find>isReadonly</find>
+      <find>V1/carts/mine</find>
+      <find>createEmptyCartForCustomer</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/app/code/Excellence</dir>
@@ -703,8 +269,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/code/Excellence/Hello/Controller/Index/Index.php" />
-        <option value="$PROJECT_DIR$/app/code/Excellence/Hello/Controller/Hello/World.php" />
         <option value="$PROJECT_DIR$/app/code/Smart/OSC/Setup/InstallSchema.php" />
         <option value="$PROJECT_DIR$/app/bootstrap.php" />
         <option value="$PROJECT_DIR$/app/code/Smart/OSC/etc/frontend/di.xml" />
@@ -748,12 +312,14 @@
         <option value="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/template/payment/discount.html" />
         <option value="$PROJECT_DIR$/app/code/Multi/Coupon/Model/Validator.php" />
         <option value="$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/js/action/set-coupon-code.js" />
-        <option value="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/templates/cart/coupon.phtml" />
-        <option value="$PROJECT_DIR$/app/code/Multi/Coupon/Controller/Multi/CouponPost.php" />
         <option value="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount-messages.js" />
-        <option value="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount.js" />
         <option value="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/action/cancel-coupon.js" />
         <option value="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/action/set-coupon-code.js" />
+        <option value="$PROJECT_DIR$/vendor/magento/module-customer/Api/GroupRepositoryInterface.php" />
+        <option value="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/templates/cart/coupon.phtml" />
+        <option value="$PROJECT_DIR$/app/code/Multi/Coupon/Controller/Multi/CouponPost.php" />
+        <option value="$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount.js" />
+        <option value="$PROJECT_DIR$/vendor/magento/module-customer/Model/ResourceModel/Customer.php" />
       </list>
     </option>
   </component>
@@ -776,10 +342,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.1" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="62" />
-    <option name="y" value="24" />
-    <option name="width" value="1849" />
-    <option name="height" value="1039" />
+    <option name="x" value="95" />
+    <option name="y" value="49" />
+    <option name="width" value="1847" />
+    <option name="height" value="1031" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -797,6 +363,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -812,244 +379,101 @@
             <path>
               <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Multi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Multi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Coupon" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-customer" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Multi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Coupon" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-customer" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Api" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-customer" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Model" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-customer" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Model" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ResourceModel" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-customer" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Model" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="ResourceModel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Customer" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-integration" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-integration" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Api" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-integration" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="etc" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
               <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Multi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Coupon" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-quote" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-quote" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Api" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-quote" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="etc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Multi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Coupon" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Multi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Coupon" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Multi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Coupon" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Multi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Coupon" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="cart" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Multi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Coupon" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Multi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Coupon" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Multi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Coupon" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="action" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Multi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Coupon" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Multi" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Coupon" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="payment" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-checkout" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-checkout" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Block" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-checkout" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Block" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Cart" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-checkout" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-checkout" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-checkout" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-checkout" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-checkout" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="action" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-checkout" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
@@ -1064,7 +488,7 @@
               <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="module-sales-rule" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Block" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Api" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
@@ -1072,7 +496,7 @@
               <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="module-sales-rule" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controller" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
@@ -1080,8 +504,8 @@
               <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="module-sales-rule" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Adminhtml" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
@@ -1089,9 +513,9 @@
               <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="module-sales-rule" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="layout" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Adminhtml" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Promo" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
@@ -1099,65 +523,13 @@
               <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="module-sales-rule" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-sales-rule" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-sales-rule" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-sales-rule" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="payment" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="magento2_4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="magento2_4" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="magento" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-sales-rule" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="summary" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="etc" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1243,11 +615,13 @@
       <workItem from="1530842464916" duration="17380000" />
       <workItem from="1531102145265" duration="25373000" />
       <workItem from="1531188147548" duration="3806000" />
+      <workItem from="1531277425160" duration="20947000" />
+      <workItem from="1531363281302" duration="798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="539805000" />
+    <option name="totallyTimeSpent" value="562959000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1259,17 +633,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="24" width="1849" height="1039" extended-state="0" />
+    <frame x="95" y="49" width="1847" height="1031" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25513035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22820655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17696334" sideWeight="0.51520175" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18571429" sideWeight="0.48479822" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19512194" sideWeight="0.48479822" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20314136" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1280,25 +654,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3358946" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17696334" sideWeight="0.51520175" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17696334" sideWeight="0.48479822" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2515202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3358946" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20314136" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1311,49 +666,47 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="83" />
+      <option name="time" value="84" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pub/static/frontend/Magento/luma/en_US/Magento_SalesRule/template/payment/discount.html">
+    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/etc/module.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        <state relative-caret-position="198">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/js/view/payment.js">
+    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/etc/frontend/di.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="54">
+          <caret line="3" column="71" lean-forward="false" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment.js" />
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/template/payment.html" />
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/template/payment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/layout/checkout_index_index.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1047">
-          <caret line="299" column="77" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="446" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/LICENSE.txt">
+    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/etc/frontend/routes.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/layout/checkout_cart_index.xml">
+    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/action/set-coupon-code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="49" column="61" lean-forward="false" selection-start-line="49" selection-start-column="61" selection-end-line="49" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/etc/validation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/etc/module.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1361,188 +714,223 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/layout/checkout_index_index.xml">
+    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/Model/ResourceModel/Rule/Collection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="42" column="69" lean-forward="false" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
-          <folding />
+        <state relative-caret-position="-3546">
+          <caret line="104" column="57" lean-forward="false" selection-start-line="104" selection-start-column="57" selection-end-line="104" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/template/summary/discount.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/template/payment/discount.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/magento2-base/lib/web/tiny_mce/classes/dom/DOMUtils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="1689" column="8" lean-forward="false" selection-start-line="1689" selection-start-column="8" selection-end-line="1689" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/js/model/payment/discount-messages.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/js/view/payment/discount-messages.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-shipping/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-shipping/view/frontend/web/js/view/checkout/shipping/shipping-policy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-catalog/view/frontend/web/js/view/compare-products.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-catalog/view/frontend/web/js/view/image.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-catalog/view/frontend/web/js/zoom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/composer/ClassLoader.php">
+    <entry file="file://$PROJECT_DIR$/generated/code/Magento/SalesRule/Model/CouponFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
-          <caret line="337" column="0" lean-forward="false" selection-start-line="337" selection-start-column="0" selection-end-line="337" selection-end-column="0" />
+          <caret line="28" column="141" lean-forward="false" selection-start-line="28" selection-start-column="141" selection-end-line="28" selection-end-column="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/layout/checkout_cart_index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1376">
+          <caret line="274" column="85" lean-forward="true" selection-start-line="274" selection-start-column="85" selection-end-line="274" selection-end-column="85" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/Controller/Multi/Coupon.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="288">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/Model/RulesApplier.php">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/Model/Coupon.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="254" column="20" lean-forward="false" selection-start-line="254" selection-start-column="20" selection-end-line="254" selection-end-column="20" />
+        <state relative-caret-position="738">
+          <caret line="44" column="57" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/js/view/summary/discount.js">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/etc/acl.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/js/model/totals.js">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/Model/Validator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="50" column="27" lean-forward="false" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/js/view/payment/discount.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="50" column="46" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="46" />
+        <state relative-caret-position="525">
+          <caret line="175" column="32" lean-forward="true" selection-start-line="175" selection-start-column="32" selection-end-line="175" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/Model/Validator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="29" column="46" lean-forward="false" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        <state relative-caret-position="486">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/js/action/select-payment-method.js">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/AccountDelegationInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/AddressMetadataInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/js/action/place-order.js">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/CustomerMetadataManagementInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/amzn/amazon-pay-and-login-magento-2-module/src/Payment/view/frontend/web/js/view/payment/method-renderer/amazon-payment-widget.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="95" column="59" lean-forward="true" selection-start-line="95" selection-start-column="59" selection-end-line="95" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/js/action/set-payment-information.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="16" column="82" lean-forward="false" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/view/frontend/web/js/action/get-totals.js">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/AddressMetadataManagementInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/js/action/set-coupon-code.js">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/CustomerGroupConfigInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="34" column="15" lean-forward="false" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="15" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/AddressRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/framework/Api/SearchCriteriaInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/CustomerRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="60" column="63" lean-forward="false" selection-start-line="60" selection-start-column="63" selection-end-line="60" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/GroupRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="true" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/GroupManagementInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/MetadataInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/CustomerManagementInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/CustomerMetadataInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/Api/RuleRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/Api/CouponManagementInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/Controller/Adminhtml/Promo/Quote.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Controller/Adminhtml/Customer/InvalidateToken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1617">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/etc/webapi.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/template/cart/totals/discount.html">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-integration/Api/AdminTokenServiceInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="414">
+          <caret line="26" column="61" lean-forward="true" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-integration/Api/IntegrationServiceInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/template/payment/discount.html">
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/Data/CustomerInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="48" column="27" lean-forward="false" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        <state relative-caret-position="162">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/code/Magento/Customer/Api/AccountManagementInterface/Proxy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="158" column="37" lean-forward="false" selection-start-line="158" selection-start-column="37" selection-end-line="158" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/templates/cart/coupon.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="51" column="34" lean-forward="false" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -1554,136 +942,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/Block/Cart/Coupon.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/Controller/Multi/CouponPost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="153" column="72" lean-forward="false" selection-start-line="153" selection-start-column="71" selection-end-line="153" selection-end-column="72" />
+        <state relative-caret-position="417">
+          <caret line="107" column="38" lean-forward="true" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="38" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/model/payment/discount-messages.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount-messages.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/cart/totals/discount.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/requirejs-config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="68" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/magento/module-sales-rule/view/frontend/web/js/action/cancel-coupon.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="45" column="28" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/layout/checkout_index_index.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/action/cancel-coupon.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/layout/checkout_cart_index.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="257" column="79" lean-forward="false" selection-start-line="257" selection-start-column="79" selection-end-line="257" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/etc/module.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/etc/frontend/di.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="53" lean-forward="false" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/templates/cart/coupon.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/etc/frontend/routes.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/action/set-coupon-code.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="49" column="61" lean-forward="false" selection-start-line="49" selection-start-column="61" selection-end-line="49" selection-end-column="61" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/Multi/Coupon/view/frontend/web/js/view/payment/discount.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-535">
-          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        <state relative-caret-position="468">
+          <caret line="76" column="52" lean-forward="false" selection-start-line="76" selection-start-column="52" selection-end-line="76" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-integration/etc/webapi.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="57" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Api/AccountManagementInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="77" column="30" lean-forward="false" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/etc/webapi.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="217" column="54" lean-forward="false" selection-start-line="217" selection-start-column="54" selection-end-line="223" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/Api/ShippingInformationManagementInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-checkout/etc/webapi.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-quote/Api/CartManagementInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="36" column="58" lean-forward="false" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Model/Customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3889">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-quote/etc/webapi.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="44" column="101" lean-forward="false" selection-start-line="44" selection-start-column="75" selection-end-line="44" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Model/ResourceModel/Customer/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="86" column="79" lean-forward="true" selection-start-line="86" selection-start-column="79" selection-end-line="86" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-eav/Model/Entity/AbstractEntity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="761" column="20" lean-forward="false" selection-start-line="761" selection-start-column="20" selection-end-line="761" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/magento/module-customer/Model/ResourceModel/Customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="120" column="30" lean-forward="false" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
           <folding />
         </state>
       </provider>

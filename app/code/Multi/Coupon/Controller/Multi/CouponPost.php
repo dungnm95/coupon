@@ -78,7 +78,7 @@ class CouponPost extends \Magento\Checkout\Controller\Cart
 
         try {
             $check_coupon = true;
-
+            $check_duplicate = false;
             if ($this->getRequest()->getParam('remove') == 1) {
 //            return $this->_goBack();
                 $array_old_coupon = explode(',', $oldCouponCode);
@@ -100,7 +100,16 @@ class CouponPost extends \Magento\Checkout\Controller\Cart
                         $check_coupon = false;
                         $couponCode = $oldCouponCode;
                     } else {
-                        if ($oldCouponCode == $couponCode) {
+                        $array_apply_coupon = explode(',', $couponCode);
+
+                        foreach ($array_apply_coupon as $code) {
+                            if ($code == $coupon_code_input) {
+                                $check_duplicate = true;
+                                break;
+                            }
+                        }
+
+                        if ($check_duplicate) {
                             $couponCode = $oldCouponCode;
                         } else {
                             $couponCode = $oldCouponCode . ',' . $couponCode;
@@ -124,47 +133,63 @@ class CouponPost extends \Magento\Checkout\Controller\Cart
             if ($codeLength && $this->getRequest()->getParam('remove') != 1) {
                 $escaper = $this->_objectManager->get(\Magento\Framework\Escaper::class);
 
-                $array_coupon = explode(',', $couponCode);
-                foreach ($array_coupon as $code) {
-
-                }
-
                 if (!$itemsCount) {
-                    if ($isCodeLengthValid && $check_coupon) {
-                        $this->_checkoutSession->getQuote()->setCouponCode($couponCode)->save();
-                        $this->messageManager->addSuccess(
+                    if ($check_duplicate) {
+                        $this->messageManager->addError(
                             __(
-                                'You used coupon code "%1".',
+                                'The coupon code "%1" is duplicate.',
                                 $escaper->escapeHtml($coupon_code_input)
                             )
                         );
                     } else {
-                        $this->messageManager->addError(
-                            __(
-                                'The coupon code "%1" is not valid.',
-                                $escaper->escapeHtml($coupon_code_input)
-                            )
-                        );
+                        if ($isCodeLengthValid && $check_coupon) {
+                            $this->_checkoutSession->getQuote()->setCouponCode($couponCode)->save();
+                            $this->messageManager->addSuccess(
+                                __(
+                                    'You used coupon code "%1".',
+                                    $escaper->escapeHtml($coupon_code_input)
+                                )
+                            );
+                        } else {
+                            $this->messageManager->addError(
+                                __(
+                                    'The coupon code "%1" is not valid.',
+                                    $escaper->escapeHtml($coupon_code_input)
+                                )
+                            );
+                        }
                     }
+
                 } else {
-                    if ($isCodeLengthValid && $check_coupon && $couponCode == $cartQuote->getCouponCode()) {
-                        $this->messageManager->addSuccess(
+                    if ($check_duplicate) {
+                        $this->messageManager->addError(
                             __(
-                                'You used coupon code "%1".',
+                                'The coupon code "%1" is duplicate.',
                                 $escaper->escapeHtml($coupon_code_input)
                             )
                         );
                     } else {
-                        $this->messageManager->addError(
-                            __(
-                                'The coupon code "%1" is not valid.',
-                                $escaper->escapeHtml($coupon_code_input)
-                            )
-                        );
+                        if ($isCodeLengthValid && $check_coupon && $couponCode == $cartQuote->getCouponCode()) {
+
+                            $this->messageManager->addSuccess(
+                                __(
+                                    'You used coupon code "%1".',
+                                    $escaper->escapeHtml($coupon_code_input)
+                                )
+                            );
+                        } else {
+                            $this->messageManager->addError(
+                                __(
+                                    'The coupon code "%1" is not valid.',
+                                    $escaper->escapeHtml($coupon_code_input)
+                                )
+                            );
+                        }
                     }
+
                 }
             } else {
-                $this->messageManager->addSuccess(__('You canceled the coupon code "%1".',$this->getRequest()->getParam('remove_coupon')));
+                $this->messageManager->addSuccess(__('You canceled the coupon code "%1".', $this->getRequest()->getParam('remove_coupon')));
             }
         } catch (\Magento\Framework\Exception\LocalizedException $e) {
             $this->messageManager->addError($e->getMessage());

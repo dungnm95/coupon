@@ -97,7 +97,7 @@ class Customer extends \Magento\Eav\Model\Entity\VersionControl\AbstractEntity
      * @param \Magento\Framework\DataObject $customer
      * @return $this
      * @throws \Magento\Framework\Exception\LocalizedException
-     * @SuppressWarnings(PHPMD.CyclomaticComplexity)
+     * @SuppressWarnings(PHPMD.CyclomaticComplexity)index
      * @SuppressWarnings(PHPMD.NPathComplexity)
      */
     protected function _beforeSave(\Magento\Framework\DataObject $customer)

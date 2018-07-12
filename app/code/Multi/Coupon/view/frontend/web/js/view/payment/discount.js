@@ -64,7 +64,19 @@ define([
                         list_code = list_old_coupon;
                 }else{
                     if (list_old_coupon != '') {
-                        list_code = list_old_coupon + ',' + ApplyCode();
+                        var check_duplicate = false;
+                        var array_list_coupon = list_old_coupon.split(",");
+                        array_list_coupon.forEach(function (item) {
+                            if(item == ApplyCode()){
+                                check_duplicate = true;
+                            }
+                        });
+                        if(check_duplicate){
+                            list_code = list_old_coupon;
+                        }else{
+                            list_code = list_old_coupon + ',' + ApplyCode();
+                        }
+
                     } else {
                         list_code = ApplyCode();
                     }
