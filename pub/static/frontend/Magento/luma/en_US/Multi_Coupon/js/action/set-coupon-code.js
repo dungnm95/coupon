@@ -1,1 +1,0 @@
-/var/www/magento2_4/app/code/Multi/Coupon/view/frontend/web/js/action/set-coupon-code.js

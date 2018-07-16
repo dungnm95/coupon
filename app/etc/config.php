@@ -125,6 +125,7 @@ return [
         'Magento_WishlistAnalytics' => 1,
         'Multi_Coupon' => 1,
         'Shopial_Facebook' => 1,
+        'Smart_Osc' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1
     ]
